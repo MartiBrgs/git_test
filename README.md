@@ -4,4 +4,6 @@ Este repositorio es usado para demostrar el uso de git como herramienta colabora
 
 ## Secciones
 
-blablabla
+En el archivo [hola_mundo.py](hola_mundo.py) se encuentra la informacion del programa
+
+### hola
